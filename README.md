@@ -1,6 +1,7 @@
 **Hotel Cancellation Analysis**
 
 **Description:-**
+
 -The project aims to conduct Data Cleaning, Visualization and Analysis for a chain of Hotel to explore the reasons for loss in revenue due to the cancellation of Hotel Bookings like prices, locations,
 month of booking the hotel, mode of booking etc.
 
